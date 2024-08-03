@@ -1,0 +1,6 @@
+console.log (5 < 3)
+console.log (10 > 9)
+console.log (1 != 1)
+console.log ('eu' === "eu")
+console.log (2*2 == 4)
+console.log ( 5 >= 5)
