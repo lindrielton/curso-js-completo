@@ -1,0 +1,5 @@
+console.log( typeof (24 - 5))
+console.log ( typeof (2 * 3))
+console.log( typeof (5 + 5))
+console.log( typeof (24 / 4))
+console.log( typeof (20 % 2))
