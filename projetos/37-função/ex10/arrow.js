@@ -30,3 +30,9 @@ const subitracao = (n,h) => {
 }
 
 console.log(subitracao(3,2))
+
+// multiplicando por 20
+const multiplos = (v) =>{
+    return v*10
+}
+console.log(multiplos(20))

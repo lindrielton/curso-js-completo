@@ -15,3 +15,6 @@ console.log(divisao(10))
 
 const mult = m => m * 2;
 console.log(mult(2))
+
+const subitrair = x => x-2
+console.log(subitrair(10))

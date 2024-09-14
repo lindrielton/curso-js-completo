@@ -4,6 +4,7 @@ function recursao(n){
         console.log("recursão parou")
     }else if(n % 2 != 0){
         console.log('numero inpar' + n)
+         recursao (n - 1)
     }else{
         console.log('numero par' + (n))
         recursao (n - 2);
@@ -14,3 +15,4 @@ function recursao(n){
 recursao(39)
 recursao(10)
 recursao(24)
+

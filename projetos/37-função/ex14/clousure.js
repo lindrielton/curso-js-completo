@@ -35,3 +35,14 @@ let conta2 = contador(1)
 conta2()
 conta2()
 conta2()
+
+// mais um exemplo
+
+function ArmazenarSoma(x){
+    return function (n){
+        return x + n;
+    }
+}
+
+let  sm1 = ArmazenarSoma(5);
+console.log(sm1(10));
