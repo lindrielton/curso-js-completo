@@ -1,3 +1,4 @@
+
 let setri = ('lindrielton')
 console.log(typeof setri)
 
