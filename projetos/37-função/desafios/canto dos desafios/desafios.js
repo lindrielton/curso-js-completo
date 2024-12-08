@@ -16,3 +16,10 @@ function reverseString(nome){
 }
 
 console.log(reverseString('lindrielton'))
+
+
+
+
+
+
+
