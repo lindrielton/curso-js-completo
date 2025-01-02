@@ -8,4 +8,6 @@ console.log(num.slice(0));
 
 console.log(num.slice(0,-3));
 
+console.log(num.slice(3, -2));
+
 
