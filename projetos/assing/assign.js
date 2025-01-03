@@ -1,6 +1,6 @@
 carro = {
     portas: 4,
-    marca: 'hinday',
+    marca: 'hiday',
     motor:'2.0',
 }
 
