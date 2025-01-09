@@ -13,6 +13,6 @@ function imprimirNumeros(...argts){
 
 imprimirNumeros(num,num1);
 console.log('separa')
-imprimirNumeros(num2,num3);
+imprimirNumeros(num2,num3,num4);
 console.log('separa')
 imprimirNumeros(1,2,3,4,5,6,7)
