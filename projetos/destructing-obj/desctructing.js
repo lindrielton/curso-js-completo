@@ -11,3 +11,18 @@ const {rodas:quantidade, portas:olharportas, Arcondicinado:verarr, cor:checarcor
 console.log(quantidade);
 console.log(verarr);
 console.log(checarcor);
+
+
+
+let lista = {
+    caneta: "azul",
+    borracha: "branca",
+    estojo: true
+}
+
+
+let {caneta: canetaAzul, borracha: boaBorracha, estojo: bomEstojo} = lista
+
+
+
+console.log(canetaAzul);

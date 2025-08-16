@@ -5,3 +5,4 @@ let [palavra1 , palavra2, palavra3] = nomes;
 
 console.log(palavra1);
 console.log(palavra2);
+console.log(palavra3);
